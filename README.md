@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá 👋
+## Bem-vindo ao meu perfil
 
-<!--
-**Renan-Bispo/Renan-Bispo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Sou Renan Bispo, estudante de programação com foco em back-end Java. Busco continuamente aprimorar minhas habilidades em desenvolvimento com projetos e cursos com a linguagem Java e framework Spring boot.</p>
 
-Here are some ideas to get you started:
+### Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estudante de programação em desenvolvimento Back-end;
+- 🌱 Atualmente estou aprendendo e aprimorando minhas habilidades em Java;
+- 💡 Estou interessado em criar aplicações inovadoras e úteis que agreguem real valor.
+
+### Contato
+
+<p>Entre em contato comigo pelo <a href="https://www.linkedin.com/in/renan-de-jesus-bispo-78a576243/">LinkedIn<a/> e também pelo <a href="https://www.instagram.com/nanbispo_/">Instagram<a/></p>
+Estou aberto a colaborações, sugestões e feedback.
+
+### Oque estou aprendendo no momento:
+ <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,postman" />
