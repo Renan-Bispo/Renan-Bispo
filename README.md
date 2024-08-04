@@ -11,8 +11,8 @@
 
 ### Contato
 
-<p>Entre em contato comigo pelo <a href="https://www.linkedin.com/in/renan-de-jesus-bispo-78a576243/">LinkedIn<a/> e também pelo <a href="https://www.instagram.com/nanbispo_/">Instagram<a/></p>
-Estou aberto a colaborações, sugestões e feedback.
+<p>Entre em contato comigo pelo <a href="https://www.linkedin.com/in/renan-de-jesus-bispo-78a576243/">LinkedIn<a/> e também pelo <a href="https://www.instagram.com/nanbispo_/">Instagram<a/>
+<p>Estou aberto a colaborações, sugestões e feedback.
 
 ### Oque estou aprendendo no momento:
  <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,postman" />
