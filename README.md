@@ -16,3 +16,5 @@ Estou aberto a colaborações, sugestões e feedback.
 
 ### Oque estou aprendendo no momento:
  <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,postman" />
+<img loading="lazy" src = "https://github-readme-stats.vercel.app/api?username=Renan-Bispo&show_icons=true&theme=dark"/>
+<img loading="lazy" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Renan-Bispo&layout=compact&theme=dark"/>
