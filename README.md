@@ -2,6 +2,8 @@
 ## Bem-vindo ao meu perfil
 
 <p>Sou Renan Bispo, estudante de programação com foco em back-end. Busco continuamente aprimorar minhas habilidades em desenvolvimento com projetos e cursos com a linguagem de programação.</p>
+<a href="https://www.linkedin.com/in/renan-de-jesus-bispo-78a576243/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/linkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/nanbispo_/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/instagram-FF00FF?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
 
 ### Sobre mim
 
@@ -9,10 +11,6 @@
 - 🌱 Atualmente estou aprendendo e aprimorando minhas habilidades em desenvolvimento Back-end;
 - 💡 Estou interessado em criar aplicações inovadoras e úteis que agreguem real valor.
 
-### Contato
-
-<p>Entre em contato comigo pelo <a href="https://www.linkedin.com/in/renan-de-jesus-bispo-78a576243/">LinkedIn<a/> e também pelo <a href="https://www.instagram.com/nanbispo_/">Instagram<a/>
-<p>Estou aberto a colaborações, sugestões e feedback.
 
 ### Oque estou aprendendo no momento:
  <img src="https://skillicons.dev/icons?i=python" />
