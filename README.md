@@ -13,6 +13,6 @@
 
 
 ### Oque estou aprendendo no momento:
- <img src="https://skillicons.dev/icons?i=python" />
+ <img src="https://skillicons.dev/icons?i=python,kotlin" />
 <img loading="lazy" src = "https://github-readme-stats.vercel.app/api?username=Renan-Bispo&show_icons=true&theme=dark"/>
 <img loading="lazy" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Renan-Bispo&layout=compact&theme=dark"/>
